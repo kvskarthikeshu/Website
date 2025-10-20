@@ -90,16 +90,3 @@ markup:
     endLevel: 2
     ordered: false
     startLevel: 2
-
-
-sitemap:
-  changefreq: daily
-  priority: 0.8
-  filename: sitemap.xml
-
-params:
-  title: "Karthik Kotikalapudi"
-  description: "Official website of Karthik Kotikalapudi — Ph.D. candidate in Economics at the University of Western Ontario. Research interests: International Trade, Network Economics, and Sovereign Default."
-  author: "Karthik Kotikalapudi"
-  keywords: ["Karthik Kotikalapudi", "Economics", "Trade", "Western University", "Research"]
-  googleSiteVerification: "XYZ" # (replace with your tag from Google Search Console)
