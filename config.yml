@@ -13,10 +13,10 @@ taxonomies:
 menu:
   main:
     - name: Research
-      url: Research/
+      url: research/
       weight: 5
     - name: Teaching
-      url: Teaching/
+      url: teaching/
       weight: 2
     - name: CV
       url: Karthik_CV.pdf
