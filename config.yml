@@ -1,4 +1,4 @@
-baseURL: "https://karthik_kotikalapudi.org/"
+baseURL: "https://kvskarthikeshu.github.io/Website/"
 title: Karthik Kotikalapudi
 theme: PaperMod
 
@@ -55,9 +55,9 @@ params:
     imageHeight: 160
     buttons:
       - name: Research
-        url: Research
+        url: Research/
       - name: Teaching
-        url: Teaching
+        url: Teaching/
       - name: CV
         url: Karthik_CV.pdf
 
