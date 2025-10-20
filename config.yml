@@ -55,9 +55,9 @@ params:
     imageHeight: 160
     buttons:
       - name: Research
-        url: Research/
+        url: research/
       - name: Teaching
-        url: Teaching/
+        url: teaching/
       - name: CV
         url: Karthik_CV.pdf
 
