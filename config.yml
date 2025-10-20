@@ -19,7 +19,7 @@ menu:
       url: Teaching/
       weight: 2
     - name: CV
-      url: CV/
+      url: Karthik_CV.pdf
       weight: 3
 
 params:
@@ -55,15 +55,15 @@ params:
     imageHeight: 160
     buttons:
       - name: Research
-        url: Research/
+        url: Research
       - name: Teaching
-        url: Teaching/
+        url: Teaching
       - name: CV
         url: Karthik_CV.pdf
 
   socialIcons:
     - name: CV
-      url: cv.pdf
+      url: Karthik_CV.pdf
     - name: Email
       url: mailto:vkotikal@uwo.ca
     #- name: GitHub
